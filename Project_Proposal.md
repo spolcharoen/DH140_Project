@@ -31,3 +31,5 @@ A scope that explains the intended analysis and resulting visualizations for you
 
 ## Conclusion
 A concluding paragraph of what insights you expect to gain from your research
+* see cultural differences between countries through diverse music tastes
+* what characteristics in songs make them popular in different countries
