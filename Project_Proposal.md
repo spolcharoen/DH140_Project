@@ -7,7 +7,9 @@ An introduction of your research question
 ### Research Question:
 An explanation of why it is important to you, why it matters to others, and what is at stake
 * Help Spotify AI Mission/Spotify Advertising -- so that they know what type of music to recommend in each country
-  ** “Our mission is to unlock the potential of human creativity – by giving a million creative artists the opportunity to live off their art and billions of fans the opportunity to enjoy and be inspired by it.”
+ 
+ * “Our mission is to unlock the potential of human creativity – by giving a million creative artists the opportunity to live off their art and billions of fans the opportunity to enjoy and be inspired by it.”
+ 
 * Artists Advertising -- help artists learn what music to create to cater to certain regions
 
 
