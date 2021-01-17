@@ -4,7 +4,7 @@ by Claire Guo and Pawan (Sine) Polcharoen
 ## Introduction
 An introduction of your research question
 
-### Research Question:
+### Research Question: What are the characteristics of top songs across the world and why?
 An explanation of why it is important to you, why it matters to others, and what is at stake
 * Help Spotify AI Mission/Spotify Advertising -- so that they know what type of music to recommend in each country
  
