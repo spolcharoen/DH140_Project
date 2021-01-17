@@ -33,9 +33,16 @@ A preliminary but definitive description of data sources (at least two) that you
 
 Include datasource with links
 
+The first dataset contains Spotify’s top songs by country in May 2020. The dataset contains the title, rank, artists, album, duration, country and continent of the top 50 songs by country.
+
 Spotify - Top Songs by Country Charts: https://www.kaggle.com/hkapoor/spotify-top-songs-by-country-may-2020
 
+The second dataset is an analysis of song characteristics, such as speechiness, acousticness, instrumentalness, and liveness, for different kinds of music genres.
+
 Dataset of songs in Spotify: https://www.kaggle.com/mrmorj/dataset-of-songs-in-spotify?select=genres_v2.csv
+
+
+The third dataset contains Spotify’s top 200 songs in each country from 2017 - July 1st, 2019. The data contains the country, date, track, position, track name, artist, and number of streams for each top song.
 
 Spotify music trends: https://www.tableau.com/about/blog/2019/7/how-visualize-spotify-music-trends-tableau
 
@@ -43,7 +50,11 @@ A scope that explains the intended analysis and resulting visualizations for you
 * combine the two datasets to see characteristics of popular songs
 * map visual, bar charts for specific countries
 
+In our project, we intend on combining datasets listing top songs in each country with datasets that measure song characteristics by genre in order to find what kinds of characteristics make songs popular in each country. We hope to combine this data to create a visual map showing what kinds of songs are popular in each country and then create bar charts for specific countries that break down popular song preferences by their song characteristics.
+
 ## Conclusion
 A concluding paragraph of what insights you expect to gain from your research
 * see cultural differences between countries through diverse music tastes
 * what characteristics in songs make them popular in different countries
+
+From this research, we hope to visualize cultural differences between countries based on their diverse music tastes. We also hope to discover what specific characteristics in songs make them popular in specific countries. This data can be used by artists to create favorable music for their listeners and help Spotify recommend music to listeners in different countries that they will most likely enjoy. 
