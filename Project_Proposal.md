@@ -4,8 +4,7 @@ by Claire Guo and Pawan (Sine) Polcharoen
 ## Introduction
 An introduction of your research question
 
-### Research Question: What characteristics do top songs across the world have and why?
-
+### Research Question:
 An explanation of why it is important to you, why it matters to others, and what is at stake
 * Help Spotify AI Mission/Spotify Advertising -- so that they know what type of music to recommend in each country
  
@@ -15,6 +14,12 @@ An explanation of why it is important to you, why it matters to others, and what
 
 
 A description of the spatial scope (e.g. Boyle Heights or Hong Kong), and why space and/or time matters for your project
+
+* Global charts - select countries in 6 continents 
+
+* 2017 - 2019
+
+* Space matters to compare between countries and how different cultures are expressed through music taste. Time matters to see how music in different countries change over time.
 
 
 ## Data Sources
@@ -29,8 +34,8 @@ Dataset of songs in Spotify: https://www.kaggle.com/mrmorj/dataset-of-songs-in-s
 Spotify music trends: https://www.tableau.com/about/blog/2019/7/how-visualize-spotify-music-trends-tableau
 
 A scope that explains the intended analysis and resulting visualizations for your project
-* combine the two datasets to analyze the characteristics of of top songs
-* map visuals, bar charts for each country
 
 ## Conclusion
 A concluding paragraph of what insights you expect to gain from your research
+* see cultural differences between countries through diverse music tastes
+* what characteristics in songs make them popular in different countries
