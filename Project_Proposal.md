@@ -34,6 +34,8 @@ Dataset of songs in Spotify: https://www.kaggle.com/mrmorj/dataset-of-songs-in-s
 Spotify music trends: https://www.tableau.com/about/blog/2019/7/how-visualize-spotify-music-trends-tableau
 
 A scope that explains the intended analysis and resulting visualizations for your project
+* combine the two datasets to see characteristics of popular songs
+* map visual, bar charts for specific countries
 
 ## Conclusion
 A concluding paragraph of what insights you expect to gain from your research
