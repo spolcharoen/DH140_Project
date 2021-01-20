@@ -44,7 +44,7 @@ The third dataset contains Spotify’s top 200 songs in each country from 2017 -
 Spotify music trends: https://www.tableau.com/about/blog/2019/7/how-visualize-spotify-music-trends-tableau
 
 
-In our project, we intend on combining datasets listing top songs in each country with datasets that measure song characteristics by genre in order to find what kinds of characteristics make songs popular in each country. We hope to combine this data to create a visual map showing what kinds of songs are popular in each country and then create bar charts for specific countries that break down popular song preferences by their song characteristics.
+In our project, we intend on combining datasets listing top songs in each country with datasets that measure song characteristics by genre. More specifically, by matching each top song with its correspondong genre, we will be able to identify which song characteristics are most common amongst popular songs in each country. Therefore, we will gain a greater understanding of why people in certain countries enjoy the songs they are listening to. We hope to combine this data to create a visual map showing which kinds of songs are popular in each country and construct bar charts for specific countries that break down popular song preferences by their song characteristics.
 
 ## Conclusion
 
