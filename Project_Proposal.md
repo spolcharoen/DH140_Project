@@ -2,15 +2,15 @@
 by Claire Guo and Pawan (Sine) Polcharoen
 
 ## Introduction
-Spotify is an audio streaming platform that is used by millions of artists and listeners across the globe. In our DH140 project, we want to analyze top songs in different countries and what makes them popular. After careful analysis, we hope to answer the following question:
+Spotify is an audio streaming platform that is used by millions of artists and listeners across the globe. In our DH140 project, we want to analyze top songs in different countries and what makes them popular. After careful analysis, we hope to answer the following research question:
 
-### Research Question: What are the characteristics of top songs across the world and why?
+### What are the characteristics of top songs across the world and why?
 
-As music streaming and advertising has shifted to a mainly online format, data and trends become available for us to analyze. With our project, we want to provide information that Spotify and music artists can use to best market their content. Different countries have their own cultures, influences, and popular media. Thus, music taste can vary greatly between different regions. Thus, we want to analyze what makes certain songs popular in certain countries, so that creators can learn what their audience is, as well as how to cater towards them. Furthermore, we want to support Spotify in their mission statement:
+As music streaming and advertising has shifted to a mainly online format, more data become available for us to analyze. With our project, we hope to provide information that Spotify and music artists can use to best market their content. Different countries have their own cultures, influences, and popular media. Thus, music taste can vary greatly between different regions. This is why we want to analyze what makes certain songs popular in certain countries, so that creators can learn what their audience is, as well as how to cater towards them. Furthermore, we want to support Spotify in their mission statement:
 
 > “Our mission is to unlock the potential of human creativity – by giving a million creative artists the opportunity to live off their art and billions of fans the opportunity to enjoy and be inspired by it.”
 
-The spatial scope for this project is global. The data sources we chose cover a variety of countries across the world. Working through a global lens is important for this project because we want to see how different cultures between countries are expressed through music taste. Moreover, with data ranging from 2017 to 2019, we will be able to gain a wide understanding of music trends over time, as well as across nations. 
+The spatial scope for this project is global. The data sources we chose cover a variety of countries across the world. Working through a global lens is important for this project because we want to see how different cultures are expressed through music taste. Moreover, with data ranging from 2017 to 2019, we will be able to gain a wide understanding of music trends over time, as well as across nations. 
 
 
 ## Data Sources
