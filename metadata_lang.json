@@ -1,0 +1,528 @@
+{
+    "release": {
+        "id": "acs2019_5yr",
+        "name": "ACS 2019 5-year",
+        "years": "2015-2019"
+    },
+    "tables": {
+        "B16001": {
+            "columns": {
+                "B16001001": {
+                    "indent": 0,
+                    "name": "Total:"
+                },
+                "B16001002": {
+                    "indent": 1,
+                    "name": "Speak only English"
+                },
+                "B16001003": {
+                    "indent": 1,
+                    "name": "Spanish:"
+                },
+                "B16001004": {
+                    "indent": 2,
+                    "name": "Speak English \"very well\""
+                },
+                "B16001005": {
+                    "indent": 2,
+                    "name": "Speak English less than \"very well\""
+                },
+                "B16001006": {
+                    "indent": 1,
+                    "name": "French (incl. Cajun):"
+                },
+                "B16001007": {
+                    "indent": 2,
+                    "name": "Speak English \"very well\""
+                },
+                "B16001008": {
+                    "indent": 2,
+                    "name": "Speak English less than \"very well\""
+                },
+                "B16001009": {
+                    "indent": 1,
+                    "name": "Haitian:"
+                },
+                "B16001010": {
+                    "indent": 2,
+                    "name": "Speak English \"very well\""
+                },
+                "B16001011": {
+                    "indent": 2,
+                    "name": "Speak English less than \"very well\""
+                },
+                "B16001012": {
+                    "indent": 1,
+                    "name": "Italian:"
+                },
+                "B16001013": {
+                    "indent": 2,
+                    "name": "Speak English \"very well\""
+                },
+                "B16001014": {
+                    "indent": 2,
+                    "name": "Speak English less than \"very well\""
+                },
+                "B16001015": {
+                    "indent": 1,
+                    "name": "Portuguese:"
+                },
+                "B16001016": {
+                    "indent": 2,
+                    "name": "Speak English \"very well\""
+                },
+                "B16001017": {
+                    "indent": 2,
+                    "name": "Speak English less than \"very well\""
+                },
+                "B16001018": {
+                    "indent": 1,
+                    "name": "German:"
+                },
+                "B16001019": {
+                    "indent": 2,
+                    "name": "Speak English \"very well\""
+                },
+                "B16001020": {
+                    "indent": 2,
+                    "name": "Speak English less than \"very well\""
+                },
+                "B16001021": {
+                    "indent": 1,
+                    "name": "Yiddish, Pennsylvania Dutch or other West Germanic languages:"
+                },
+                "B16001022": {
+                    "indent": 2,
+                    "name": "Speak English \"very well\""
+                },
+                "B16001023": {
+                    "indent": 2,
+                    "name": "Speak English less than \"very well\""
+                },
+                "B16001024": {
+                    "indent": 1,
+                    "name": "Greek:"
+                },
+                "B16001025": {
+                    "indent": 2,
+                    "name": "Speak English \"very well\""
+                },
+                "B16001026": {
+                    "indent": 2,
+                    "name": "Speak English less than \"very well\""
+                },
+                "B16001027": {
+                    "indent": 1,
+                    "name": "Russian:"
+                },
+                "B16001028": {
+                    "indent": 2,
+                    "name": "Speak English \"very well\""
+                },
+                "B16001029": {
+                    "indent": 2,
+                    "name": "Speak English less than \"very well\""
+                },
+                "B16001030": {
+                    "indent": 1,
+                    "name": "Polish:"
+                },
+                "B16001031": {
+                    "indent": 2,
+                    "name": "Speak English \"very well\""
+                },
+                "B16001032": {
+                    "indent": 2,
+                    "name": "Speak English less than \"very well\""
+                },
+                "B16001033": {
+                    "indent": 1,
+                    "name": "Serbo-Croatian:"
+                },
+                "B16001034": {
+                    "indent": 2,
+                    "name": "Speak English \"very well\""
+                },
+                "B16001035": {
+                    "indent": 2,
+                    "name": "Speak English less than \"very well\""
+                },
+                "B16001036": {
+                    "indent": 1,
+                    "name": "Ukrainian or other Slavic languages:"
+                },
+                "B16001037": {
+                    "indent": 2,
+                    "name": "Speak English \"very well\""
+                },
+                "B16001038": {
+                    "indent": 2,
+                    "name": "Speak English less than \"very well\""
+                },
+                "B16001039": {
+                    "indent": 1,
+                    "name": "Armenian:"
+                },
+                "B16001040": {
+                    "indent": 2,
+                    "name": "Speak English \"very well\""
+                },
+                "B16001041": {
+                    "indent": 2,
+                    "name": "Speak English less than \"very well\""
+                },
+                "B16001042": {
+                    "indent": 1,
+                    "name": "Persian (incl. Farsi, Dari):"
+                },
+                "B16001043": {
+                    "indent": 2,
+                    "name": "Speak English \"very well\""
+                },
+                "B16001044": {
+                    "indent": 2,
+                    "name": "Speak English less than \"very well\""
+                },
+                "B16001045": {
+                    "indent": 1,
+                    "name": "Gujarati:"
+                },
+                "B16001046": {
+                    "indent": 2,
+                    "name": "Speak English \"very well\""
+                },
+                "B16001047": {
+                    "indent": 2,
+                    "name": "Speak English less than \"very well\""
+                },
+                "B16001048": {
+                    "indent": 1,
+                    "name": "Hindi:"
+                },
+                "B16001049": {
+                    "indent": 2,
+                    "name": "Speak English \"very well\""
+                },
+                "B16001050": {
+                    "indent": 2,
+                    "name": "Speak English less than \"very well\""
+                },
+                "B16001051": {
+                    "indent": 1,
+                    "name": "Urdu:"
+                },
+                "B16001052": {
+                    "indent": 2,
+                    "name": "Speak English \"very well\""
+                },
+                "B16001053": {
+                    "indent": 2,
+                    "name": "Speak English less than \"very well\""
+                },
+                "B16001054": {
+                    "indent": 1,
+                    "name": "Punjabi:"
+                },
+                "B16001055": {
+                    "indent": 2,
+                    "name": "Speak English \"very well\""
+                },
+                "B16001056": {
+                    "indent": 2,
+                    "name": "Speak English less than \"very well\""
+                },
+                "B16001057": {
+                    "indent": 1,
+                    "name": "Bengali:"
+                },
+                "B16001058": {
+                    "indent": 2,
+                    "name": "Speak English \"very well\""
+                },
+                "B16001059": {
+                    "indent": 2,
+                    "name": "Speak English less than \"very well\""
+                },
+                "B16001060": {
+                    "indent": 1,
+                    "name": "Nepali, Marathi, or other Indic languages:"
+                },
+                "B16001061": {
+                    "indent": 2,
+                    "name": "Speak English \"very well\""
+                },
+                "B16001062": {
+                    "indent": 2,
+                    "name": "Speak English less than \"very well\""
+                },
+                "B16001063": {
+                    "indent": 1,
+                    "name": "Other Indo-European languages:"
+                },
+                "B16001064": {
+                    "indent": 2,
+                    "name": "Speak English \"very well\""
+                },
+                "B16001065": {
+                    "indent": 2,
+                    "name": "Speak English less than \"very well\""
+                },
+                "B16001066": {
+                    "indent": 1,
+                    "name": "Telugu:"
+                },
+                "B16001067": {
+                    "indent": 2,
+                    "name": "Speak English \"very well\""
+                },
+                "B16001068": {
+                    "indent": 2,
+                    "name": "Speak English less than \"very well\""
+                },
+                "B16001069": {
+                    "indent": 1,
+                    "name": "Tamil:"
+                },
+                "B16001070": {
+                    "indent": 2,
+                    "name": "Speak English \"very well\""
+                },
+                "B16001071": {
+                    "indent": 2,
+                    "name": "Speak English less than \"very well\""
+                },
+                "B16001072": {
+                    "indent": 1,
+                    "name": "Malayalam, Kannada, or other Dravidian languages:"
+                },
+                "B16001073": {
+                    "indent": 2,
+                    "name": "Speak English \"very well\""
+                },
+                "B16001074": {
+                    "indent": 2,
+                    "name": "Speak English less than \"very well\""
+                },
+                "B16001075": {
+                    "indent": 1,
+                    "name": "Chinese (incl. Mandarin, Cantonese):"
+                },
+                "B16001076": {
+                    "indent": 2,
+                    "name": "Speak English \"very well\""
+                },
+                "B16001077": {
+                    "indent": 2,
+                    "name": "Speak English less than \"very well\""
+                },
+                "B16001078": {
+                    "indent": 1,
+                    "name": "Japanese:"
+                },
+                "B16001079": {
+                    "indent": 2,
+                    "name": "Speak English \"very well\""
+                },
+                "B16001080": {
+                    "indent": 2,
+                    "name": "Speak English less than \"very well\""
+                },
+                "B16001081": {
+                    "indent": 1,
+                    "name": "Korean:"
+                },
+                "B16001082": {
+                    "indent": 2,
+                    "name": "Speak English \"very well\""
+                },
+                "B16001083": {
+                    "indent": 2,
+                    "name": "Speak English less than \"very well\""
+                },
+                "B16001084": {
+                    "indent": 1,
+                    "name": "Hmong:"
+                },
+                "B16001085": {
+                    "indent": 2,
+                    "name": "Speak English \"very well\""
+                },
+                "B16001086": {
+                    "indent": 2,
+                    "name": "Speak English less than \"very well\""
+                },
+                "B16001087": {
+                    "indent": 1,
+                    "name": "Vietnamese:"
+                },
+                "B16001088": {
+                    "indent": 2,
+                    "name": "Speak English \"very well\""
+                },
+                "B16001089": {
+                    "indent": 2,
+                    "name": "Speak English less than \"very well\""
+                },
+                "B16001090": {
+                    "indent": 1,
+                    "name": "Khmer:"
+                },
+                "B16001091": {
+                    "indent": 2,
+                    "name": "Speak English \"very well\""
+                },
+                "B16001092": {
+                    "indent": 2,
+                    "name": "Speak English less than \"very well\""
+                },
+                "B16001093": {
+                    "indent": 1,
+                    "name": "Thai, Lao, or other Tai-Kadai languages:"
+                },
+                "B16001094": {
+                    "indent": 2,
+                    "name": "Speak English \"very well\""
+                },
+                "B16001095": {
+                    "indent": 2,
+                    "name": "Speak English less than \"very well\""
+                },
+                "B16001096": {
+                    "indent": 1,
+                    "name": "Other languages of Asia:"
+                },
+                "B16001097": {
+                    "indent": 2,
+                    "name": "Speak English \"very well\""
+                },
+                "B16001098": {
+                    "indent": 2,
+                    "name": "Speak English less than \"very well\""
+                },
+                "B16001099": {
+                    "indent": 1,
+                    "name": "Tagalog (incl. Filipino):"
+                },
+                "B16001100": {
+                    "indent": 2,
+                    "name": "Speak English \"very well\""
+                },
+                "B16001101": {
+                    "indent": 2,
+                    "name": "Speak English less than \"very well\""
+                },
+                "B16001102": {
+                    "indent": 1,
+                    "name": "Ilocano, Samoan, Hawaiian, or other Austronesian languages:"
+                },
+                "B16001103": {
+                    "indent": 2,
+                    "name": "Speak English \"very well\""
+                },
+                "B16001104": {
+                    "indent": 2,
+                    "name": "Speak English less than \"very well\""
+                },
+                "B16001105": {
+                    "indent": 1,
+                    "name": "Arabic:"
+                },
+                "B16001106": {
+                    "indent": 2,
+                    "name": "Speak English \"very well\""
+                },
+                "B16001107": {
+                    "indent": 2,
+                    "name": "Speak English less than \"very well\""
+                },
+                "B16001108": {
+                    "indent": 1,
+                    "name": "Hebrew:"
+                },
+                "B16001109": {
+                    "indent": 2,
+                    "name": "Speak English \"very well\""
+                },
+                "B16001110": {
+                    "indent": 2,
+                    "name": "Speak English less than \"very well\""
+                },
+                "B16001111": {
+                    "indent": 1,
+                    "name": "Amharic, Somali, or other Afro-Asiatic languages:"
+                },
+                "B16001112": {
+                    "indent": 2,
+                    "name": "Speak English \"very well\""
+                },
+                "B16001113": {
+                    "indent": 2,
+                    "name": "Speak English less than \"very well\""
+                },
+                "B16001114": {
+                    "indent": 1,
+                    "name": "Yoruba, Twi, Igbo, or other languages of Western Africa:"
+                },
+                "B16001115": {
+                    "indent": 2,
+                    "name": "Speak English \"very well\""
+                },
+                "B16001116": {
+                    "indent": 2,
+                    "name": "Speak English less than \"very well\""
+                },
+                "B16001117": {
+                    "indent": 1,
+                    "name": "Swahili or other languages of Central, Eastern, and Southern Africa:"
+                },
+                "B16001118": {
+                    "indent": 2,
+                    "name": "Speak English \"very well\""
+                },
+                "B16001119": {
+                    "indent": 2,
+                    "name": "Speak English less than \"very well\""
+                },
+                "B16001120": {
+                    "indent": 1,
+                    "name": "Navajo:"
+                },
+                "B16001121": {
+                    "indent": 2,
+                    "name": "Speak English \"very well\""
+                },
+                "B16001122": {
+                    "indent": 2,
+                    "name": "Speak English less than \"very well\""
+                },
+                "B16001123": {
+                    "indent": 1,
+                    "name": "Other Native languages of North America:"
+                },
+                "B16001124": {
+                    "indent": 2,
+                    "name": "Speak English \"very well\""
+                },
+                "B16001125": {
+                    "indent": 2,
+                    "name": "Speak English less than \"very well\""
+                },
+                "B16001126": {
+                    "indent": 1,
+                    "name": "Other and unspecified languages:"
+                },
+                "B16001127": {
+                    "indent": 2,
+                    "name": "Speak English \"very well\""
+                },
+                "B16001128": {
+                    "indent": 2,
+                    "name": "Speak English less than \"very well\""
+                }
+            },
+            "denominator_column_id": "B16001001",
+            "title": "Language Spoken at Home by Ability to Speak English for the Population 5 Years and Over",
+            "universe": "Population 5 Years and Over"
+        }
+    }
+}
