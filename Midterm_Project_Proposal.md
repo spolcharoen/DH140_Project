@@ -22,19 +22,26 @@ The first dataset contains Spotify’s top 200 songs in each country from 2017 -
 
 Spotify music trends: https://www.tableau.com/about/blog/2019/7/how-visualize-spotify-music-trends-tableau
 
+
 The second dataset contains Spotify’s top songs by country in May 2020. The dataset contains the title, rank, artists, album, duration, country and continent of the top 50 songs by country.
 
 Spotify - Top Songs by Country Charts: https://www.kaggle.com/hkapoor/spotify-top-songs-by-country-may-2020
+
 
 The third dataset is an analysis of song characteristics, such as speechiness, acousticness, instrumentalness, and liveness, for different kinds of music genres.
 
 Dataset of songs in Spotify: https://www.kaggle.com/mrmorj/dataset-of-songs-in-spotify?select=genres_v2.csv 
 
+
 The fourth dataset contains the GDP values for 264 countries around the world in 2019.
+
 Dataset of GDP data: https://drive.google.com/drive/folders/1FiI9kQI_FWoSkbQ4dfiRv3IwdrYX7sZI 
 
+
 The fifth dataset is a global .geojson file that contains the iso codes and geometry coordinates for 249 countries. 
+
 Geojson file of the world: https://github.com/yohman/world-projections/blob/main/world.geojson 
+
 
 In our project, we intend to create visual maps showing which kinds of songs are popular in each country and construct bar charts for specific countries that break down popular song preferences by their song characteristics. In order to create these visualizations, we combined both 2019 and 2020 datasets listing top songs in each country with the dataset that measures song characteristics by genre. By matching each top song with its corresponding genre, we were able to identify which song characteristics were most common amongst popular songs in each country. Furthermore, we joined the global .geojson dataset to our combined Spotify and song characteristic data to visualize these music preferences spatially. In our current analysis, we created charts for overall global genre differences in June 2019 and 2020. For the May 2020 data, we created interactive charts that looked at song frequency at different acousticness levels for each continent. For the June 2019 dataset, we created a similar chart that measured song frequency at different acousticness levels, but for different countries. We also visualized GDP differences and song characteristic levels for each country using global maps.
 
