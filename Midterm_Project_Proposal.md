@@ -12,7 +12,7 @@ Listening to music is a quintessential and universal human activity that plays a
 
 Furthermore, we also hope to provide information that Spotify and music artists around the world can use to best market their content. By analyzing what makes certain songs popular in certain countries, artists can understand how to cater their songs to their audiences by learning who their listeners are, where they are from, and what they prefer. Our project supports Spotify in their mission statement:
 
-“Our mission is to unlock the potential of human creativity – by giving a million creative artists the opportunity to live off their art and billions of fans the opportunity to enjoy and be inspired by it.”
+> “Our mission is to unlock the potential of human creativity – by giving a million creative artists the opportunity to live off their art and billions of fans the opportunity to enjoy and be inspired by it.”
 
 The spatial scope for this project is global. Working through a global lens is important for this project because we want to see how different cultures are expressed through music taste. Furthermore, we want to focus on economic differences between countries and looking at a global scale will allow us to view GDP trends across global regions. Moreover, with Spotify data from June, 2019 and May, 2020 and global GDP data from 2019, we will be able to gain a wide understanding of music trends and economic productivity across many nations.
 
