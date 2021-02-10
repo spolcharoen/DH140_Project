@@ -2,6 +2,7 @@
 Pawan (Sine) Polcharoen and Claire Guo
 
 **Access our Midterm presentation slides [here](https://docs.google.com/presentation/d/1iTUqLe8PNnsSGl7mJExCJObC4vA-9hh1BCSEjcLWo44/edit?usp=sharing).**
+**Access our Midterm JupyterHub notebook [here](https://github.com/spolcharoen/DH140_Project/blob/main/DH140_Midterm%20(1).ipynb).**
 
 ## Introduction
 Spotify is an audio streaming platform that is used by millions of artists and listeners across the globe. In our DH140 project, we want to analyze top songs in different countries and what makes them popular. Furthermore, we also want to look at economic differences between countries to see if there are any underlying trends between economic status and music preference. After careful analysis, we hope to answer the following research question:
